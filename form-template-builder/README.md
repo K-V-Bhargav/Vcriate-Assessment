@@ -88,7 +88,7 @@ A powerful React + TypeScript application for creating, managing, and submitting
 ### Installation
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone "https://github.com/K-V-Bhargav/Vcriate-Assessment.git"
 
 # Navigate to the project directory
 cd form-template-builder
@@ -144,6 +144,3 @@ yarn build
    - Text: "How can we improve?"
 6. Preview and test the form
 7. Save the template
-
-## License
-[MIT License](LICENSE)
